@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_currencies">
+        <item>Dólar Americano</item>
+        <item>Real Brasileiro</item>
+        <item>Bitcoin</item>
+        <item>Peso Argentino</item>
+        <item>Euro</item>
+    </string-array>
+</resources>
